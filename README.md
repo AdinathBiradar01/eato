@@ -4,7 +4,7 @@
 </h1>
 
 
-[**View Demo**](https://zomato-dipayan.vercel.app/)
+[**View Demo**](https://eato-ten.vercel.app/)
 
 <h1></h1>
 
