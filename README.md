@@ -8,7 +8,8 @@
 
 <h1></h1>
 
-![Screenshot (660)](https://github.com/dipayanmaji/zomato-clone/assets/121128467/c65a295e-131e-40a9-b228-ad9f40dfda2f)
+![Screenshot (660)](![image](https://github.com/user-attachments/assets/b868dd0a-ce74-414a-93bc-ebccfe2ac0c8)
+)
 
 <h1></h1>
 <h1>Features</h1>
